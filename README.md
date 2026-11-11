@@ -47,24 +47,46 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
-## 02 / TECHNOLOGY STACK
 
-### Languages
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js&theme=dark"/>
+## 02 / TECH STACK
+
+<p align="center">
+  <sub>TOOLS I USE · TECHNOLOGIES I'M EXPLORING</sub>
 </p>
 
-### Tools & Platforms
+### LANGUAGES & DEVELOPMENT
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,kali,windows&theme=dark"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Currently Exploring
+### TOOLS & ENVIRONMENT
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github&theme=dark"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### GAME DEVELOPMENT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Roblox_Studio-111111?style=for-the-badge&logo=roblox&logoColor=white" />
+</p>
+
+### CURRENTLY LEARNING
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-LEARNING-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-LEARNING-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux-EXPLORING-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game_Development-EXPLORING-333333?style=flat-square" />
 </p>
 
 ---
