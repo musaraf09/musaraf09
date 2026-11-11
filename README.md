@@ -143,7 +143,7 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
-## 07 / DEVELOPER MISSION CONTROL
+## 06 / DEVELOPER MISSION CONTROL
 
 <div align="center">
 
