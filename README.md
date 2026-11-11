@@ -140,56 +140,53 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
-## 06 / GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=BDBDBD"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=musaraf09&hide_border=true&background=050505&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=888888"/>
-
-</div>
 
 ---
 
-## 07 / CONTRIBUTION ACTIVITY
+## 07 / DEVELOPER MISSION CONTROL
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaraf09&bg_color=050505&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+### CURRENT OBJECTIVE
+
+**Learn. Build. Experiment. Improve.**
+
+<sub>A continuous journey from fundamentals to real-world development.</sub>
 
 </div>
 
----
+| Focus Area | Current Mission |
+|:---|:---|
+| `01` Programming | Strengthen C++ and problem-solving fundamentals |
+| `02` Development | Build practical applications and projects |
+| `03` Cybersecurity | Explore Linux, networking and security labs |
+| `04` Artificial Intelligence | Experiment with AI-powered applications |
+| `05` Game Development | Learn interactive systems and game mechanics |
 
-## 08 / BEYOND THE CODE
+### DEVELOPMENT ROADMAP
 
-<div align="center">
+```mermaid
+flowchart TD
+    A["01 — Learn Fundamentals"] --> B["02 — Practice & Experiment"]
+    B --> C["03 — Build Projects"]
+    C --> D["04 — Improve & Optimize"]
+    D --> E["05 — Create Something Original"]
+    E --> B
 
-```text
-LEARN       → Understand the fundamentals
-EXPERIMENT  → Explore new possibilities
-BUILD       → Turn ideas into working projects
-IMPROVE     → Learn from every mistake
-REPEAT      → Keep moving forward
+    classDef node fill:#111111,stroke:#888888,color:#ffffff
+    class A,B,C,D,E node
 ```
 
-</div>
+### CURRENT PRINCIPLES
 
----
-
-<!-- ===================== FOOTER ===================== -->
+- Build before perfection.
+- Understand the code, don't just copy it.
+- Learn through experimentation.
+- Turn mistakes into improvements.
+- Keep creating and documenting projects.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,50:171717,100:050505&height=100&section=footer"/>
-
-**BUILDING SKILLS. CREATING PROJECTS. STAYING CURIOUS.**
-
-<sub>Designed with simplicity, powered by curiosity.</sub>
+<sub>STATUS: ALWAYS LEARNING • ALWAYS BUILDING</sub>
 
 </div>
