@@ -140,14 +140,17 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
-
-## 06 / GITHUB OVERVIEW
+## 06 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA&icon_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=BDBDBD"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=musaraf09&hide_border=true&background=050505&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=888888"/>
 
 </div>
 
@@ -157,15 +160,7 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaraf09&bg_color=0D1117&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"/>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Consistency over intensity. Progress over perfection.</sub>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musaraf09&bg_color=050505&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
