@@ -50,6 +50,9 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
+
+---
+
 ## 02 / TECH STACK
 
 <p align="center">
@@ -88,6 +91,8 @@ I enjoy understanding how things work, experimenting with new technologies, and 
   <img src="https://img.shields.io/badge/Linux-EXPLORING-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/Game_Development-EXPLORING-333333?style=flat-square" />
 </p>
+
+---
 
 ---
 
