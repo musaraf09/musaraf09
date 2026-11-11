@@ -125,21 +125,74 @@ I enjoy understanding how things work, experimenting with new technologies, and 
 
 ---
 
-## 05 / PROJECTS
-
-<div align="center">
-
-| Project | Description | Status |
-|:---|:---|:---|
-| C++ Practice Collection | Beginner programming exercises and concepts | Learning |
-| Personal GitHub Profile | A professional developer portfolio | Improving |
-| AI Assistant Concept | Exploring an intelligent personal assistant | Exploring |
-| Game Development | Experimenting with interactive game systems | Exploring |
-
-</div>
 
 ---
 
+## 05 / PROJECT DEVELOPMENT HUB
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Ideas+are+the+beginning.;Learning+is+the+process.;Building+is+the+goal." />
+
+</div>
+
+### CURRENT FOCUS
+
+<table>
+<tr>
+<td width="50%">
+
+**01 — C++ Development**
+
+Learning programming fundamentals, functions, loops and object-oriented programming.
+
+</td>
+<td width="50%">
+
+**02 — Linux & Cybersecurity**
+
+Exploring Linux environments, terminal commands and networking fundamentals.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**03 — Artificial Intelligence**
+
+Exploring AI assistants, automation and intelligent applications.
+
+</td>
+<td width="50%">
+
+**04 — Game Development**
+
+Learning game mechanics, interactive systems and Roblox Studio.
+
+</td>
+</tr>
+</table>
+
+### PROJECT ROADMAP
+
+| Project Idea | Planned Technologies | Status |
+|:---|:---|:---|
+| Personal Calculator | C++ | Learning |
+| AI Personal Assistant | Python, AI | Planned |
+| Weather Application | C++, API | Planned |
+| Interactive Game | Roblox Studio, Lua | Planned |
+
+### DEVELOPMENT PHILOSOPHY
+
+> Don't just collect technologies. Learn them, experiment with them, and turn your knowledge into something real.
+
+<div align="center">
+
+**THE JOURNEY HAS JUST STARTED.**
+
+<sub>More projects coming as I learn and build.</sub>
+
+</div>
 
 ---
 
