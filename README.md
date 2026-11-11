@@ -1,82 +1,84 @@
- 
+
 <div align="center">
 
-# `MUSARAF.EXE`
+# MUSARAF HUSSAIN
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Musaraf+Hussain;BCA+Student+%7C+Aspiring+Developer;Exploring+AI+%26+Cybersecurity;Building+Ideas+Into+Reality" />
+**Aspiring Software Engineer · BCA Student**
 
-**`Code. Learn. Experiment. Repeat.`**
+Building skills, exploring technology, and turning ideas into reality.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mus araf09-111111?style=for-the-badge&logo=github)](https://github.com/musaraf09)
-[![Profile Views](https://komarev.com/ghpvc/?username=musaraf09&style=for-the-badge&color=00cc88)](https://github.com/musaraf09)
+[![GitHub](https://img.shields.io/badge/GitHub-musaraf09-DC2626?style=flat-square&logo=github&logoColor=white)](https://github.com/musaraf09)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```cpp
-#include <iostream>
-using namespace std;
+Hello! I'm **Musaraf Hussain**, a BCA student at BJS Rampuria Jain College.
 
-int main() {
-    string name = "Musaraf Hussain";
-    string education = "BCA Student";
-    string goal = "Software Engineer";
+I'm passionate about programming, technology, and understanding how things work behind the scenes. Currently, I'm strengthening my programming fundamentals and exploring different areas of computer science.
 
-    cout << "Always learning, always building.";
+- Currently learning C++ and programming fundamentals.
+- Exploring AI-assisted development.
+- Interested in cybersecurity and Linux.
+- Exploring software and game development.
+- Focused on building practical projects.
 
-    return 0;
-}
-```
+## Technologies & Tools
 
-- 🎓 First-year BCA student at BJS Rampuria Jain College.
-- 💻 Exploring software development and computer science.
-- 🤖 Interested in AI and AI-assisted coding.
-- 🔐 Exploring cybersecurity.
-- 🎮 Interested in game development.
-- 🚀 Working towards becoming a software engineer.
+<div align="center">
 
-## ⚡ Tech Stack & Tools
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,linux&theme=light" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,git,github,vscode,linux&theme=dark" />
-</p>
+</div>
 
-## 📊 GitHub Statistics
+## Areas of Interest
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+| Area | Interest |
+|:---|:---|
+| Software Development | Building applications |
+| Artificial Intelligence | AI-assisted development |
+| Cybersecurity | Linux and security fundamentals |
+| Game Development | Game mechanics and design |
+| Computer Science | Logic and problem solving |
 
-<p align="center">
-<img width="90%" src="https://streak-stats.demolab.com?user=musaraf09&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+## Currently Learning
 
-## 🚀 Featured Projects
+- C++ Programming
+- Programming Fundamentals
+- Git & GitHub
+- Linux Basics
+- Software Development
 
-*Coming soon...*
+## Featured Projects
 
-I'm currently learning, experimenting and building projects. Stay tuned!
+<div align="center">
 
-## 🎯 Current Mission
+**Projects are currently in development.**
 
-- [x] Start my programming journey.
-- [x] Create my GitHub profile.
-- [ ] Master C++ fundamentals.
-- [ ] Build meaningful software projects.
-- [ ] Explore AI development.
-- [ ] Develop cybersecurity skills.
-- [ ] Become a software engineer.
+I'm working towards building practical projects that demonstrate my learning and problem-solving skills.
+
+[![Explore Repositories](https://img.shields.io/badge/Explore_My_Repositories-DC2626?style=for-the-badge&logo=github&logoColor=white)](https://github.com/musaraf09?tab=repositories)
+
+</div>
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&hide_border=true&bg_color=ffffff&title_color=DC2626&icon_color=DC2626&text_color=24292F" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&hide_border=true&bg_color=ffffff&title_color=DC2626&text_color=24292F" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### `while(alive) { learn(); build(); repeat(); }`
+**"Great things take time. Keep building."**
 
-**Thanks for visiting my profile!**
+*Designed and maintained by Musaraf Hussain.*
 
 </div>
