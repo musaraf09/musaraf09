@@ -1,37 +1,82 @@
-
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=180&section=header&text=MUSARAF%20HUSSAIN&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ASPIRING%20SOFTWARE%20ENGINEER&descSize=14&descAlignY=58&descColor=CCCCCC" />
+# `MUSARAF.EXE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=Hello%2C+I'm+Musaraf+Hussain.;First-Year+BCA+Student.;Learning+C%2B%2B+%26+Software+Development.;Exploring+Artificial+Intelligence.;Interested+in+Cybersecurity+%26+Linux.;Turning+Curiosity+Into+Code.;Building.+Learning.+Evolving." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Musaraf+Hussain;BCA+Student+%7C+Aspiring+Developer;Exploring+AI+%26+Cybersecurity;Building+Ideas+Into+Reality" />
 
-<br/>
+**`Code. Learn. Experiment. Repeat.`**
 
-**BCA Student · Aspiring Developer · Technology Enthusiast**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white)](https://github.com/musaraf09)
-[![Repositories](https://img.shields.io/badge/Repositories-303030?style=flat-square&logo=github&logoColor=white)](https://github.com/musaraf09?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-mus araf09-111111?style=for-the-badge&logo=github)](https://github.com/musaraf09)
+[![Profile Views](https://komarev.com/ghpvc/?username=musaraf09&style=for-the-badge&color=00cc88)](https://github.com/musaraf09)
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm **Musaraf Hussain**, a BCA student at BJS Rampuria Jain College.
+```cpp
+#include <iostream>
+using namespace std;
 
-I'm passionate about programming, technology, and understanding how things work behind the scenes. Currently, I'm strengthening my programming fundamentals and exploring different areas of computer science.
+int main() {
+    string name = "Musaraf Hussain";
+    string education = "BCA Student";
+    string goal = "Software Engineer";
 
-- Currently learning C++ and programming fundamentals.
-- Exploring AI-assisted development.
-- Interested in cybersecurity and Linux.
-- Exploring software and game development.
-- Focused on building practical projects.
+    cout << "Always learning, always building.";
+
+    return 0;
+}
+```
+
+- 🎓 First-year BCA student at BJS Rampuria Jain College.
+- 💻 Exploring software development and computer science.
+- 🤖 Interested in AI and AI-assisted coding.
+- 🔐 Exploring cybersecurity.
+- 🎮 Interested in game development.
+- 🚀 Working towards becoming a software engineer.
+
+## ⚡ Tech Stack & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,git,github,vscode,linux&theme=dark" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=musaraf09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaraf09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+<img width="90%" src="https://streak-stats.demolab.com?user=musaraf09&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+## 🚀 Featured Projects
+
+*Coming soon...*
+
+I'm currently learning, experimenting and building projects. Stay tuned!
+
+## 🎯 Current Mission
+
+- [x] Start my programming journey.
+- [x] Create my GitHub profile.
+- [ ] Master C++ fundamentals.
+- [ ] Build meaningful software projects.
+- [ ] Explore AI development.
+- [ ] Develop cybersecurity skills.
+- [ ] Become a software engineer.
+
+---
 
 <div align="center">
 
-<img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=0:303030,100:000000&height=3&section=footer" />
+### `while(alive) { learn(); build(); repeat(); }`
+
+**Thanks for visiting my profile!**
 
 </div>
