@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="./323485185730019923.gif" width="100%" alt="Animated banner">
+</div>
+
+
+
+
+
 
 <!-- ===================== HEADER ===================== -->
 
